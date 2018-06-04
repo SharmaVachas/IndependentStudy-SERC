@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Search-icon (3).png</filename>
+	<path>/media/vachas/3C50E40750E3C62C/MTECH_SEMESTER2/independent_study/LabelImages/images/Search-icon (3).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>searchIcon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>25</ymin>
+			<xmax>103</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>

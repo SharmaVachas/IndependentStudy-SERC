@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>N5N3N.png</filename>
+	<path>/media/vachas/3C50E40750E3C62C/MTECH_SEMESTER2/independent_study/LabelImages/images/N5N3N.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>223</width>
+		<height>226</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>searchIcon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>223</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

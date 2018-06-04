@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>icons-library.png</filename>
+	<path>/media/vachas/3C50E40750E3C62C/MTECH_SEMESTER2/independent_study/LabelImages/images/icons-library.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>searchIcon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>818</xmin>
+			<ymin>312</ymin>
+			<xmax>910</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>

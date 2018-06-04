@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>V53TN6.png</filename>
+	<path>/media/vachas/3C50E40750E3C62C/MTECH_SEMESTER2/independent_study/LabelImages/images/V53TN6.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>189</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>searchIcon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>91</ymin>
+			<xmax>131</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>

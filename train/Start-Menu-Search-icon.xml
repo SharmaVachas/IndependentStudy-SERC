@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Start-Menu-Search-icon.png</filename>
+	<path>/media/vachas/3C50E40750E3C62C/MTECH_SEMESTER2/independent_study/LabelImages/images/Start-Menu-Search-icon.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>searchIcon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>124</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

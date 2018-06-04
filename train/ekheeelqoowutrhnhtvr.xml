@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ekheeelqoowutrhnhtvr.png</filename>
+	<path>/media/vachas/3C50E40750E3C62C/MTECH_SEMESTER2/independent_study/LabelImages/images/ekheeelqoowutrhnhtvr.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>searchIcon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>54</ymin>
+			<xmax>223</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>

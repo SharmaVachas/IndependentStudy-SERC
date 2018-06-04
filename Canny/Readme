@@ -1,0 +1,1 @@
+For optimal results on edge detection, we can avoid using gaussian filtering stage of Canny detector 

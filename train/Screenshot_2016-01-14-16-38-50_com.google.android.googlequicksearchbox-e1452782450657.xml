@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Screenshot_2016-01-14-16-38-50_com.google.android.googlequicksearchbox-e1452782450657.png</filename>
+	<path>/media/vachas/3C50E40750E3C62C/MTECH_SEMESTER2/independent_study/LabelImages/images/Screenshot_2016-01-14-16-38-50_com.google.android.googlequicksearchbox-e1452782450657.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>searchIcon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>92</ymin>
+			<xmax>114</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

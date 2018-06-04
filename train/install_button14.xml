@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>install_button14.png</filename>
+	<path>/media/vachas/3C50E40750E3C62C/MTECH_SEMESTER2/independent_study/LabelImages/images/install_button14.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>853</width>
+		<height>702</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>searchIcon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>592</xmin>
+			<ymin>62</ymin>
+			<xmax>616</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+</annotation>

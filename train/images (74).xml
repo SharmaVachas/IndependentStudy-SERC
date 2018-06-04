@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images (74).jpeg</filename>
+	<path>/media/vachas/3C50E40750E3C62C/MTECH_SEMESTER2/independent_study/LabelImages/images/images (74).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>211</width>
+		<height>238</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>searchIcon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>87</ymin>
+			<xmax>196</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

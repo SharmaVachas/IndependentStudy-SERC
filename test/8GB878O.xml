@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>8GB878O.png</filename>
+	<path>/media/vachas/3C50E40750E3C62C/MTECH_SEMESTER2/independent_study/LabelImages/images/8GB878O.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>189</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>searchIcon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>90</ymin>
+			<xmax>133</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>
